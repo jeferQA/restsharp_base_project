@@ -4,7 +4,7 @@ Projeto de testes automatizados para a [Dog CEO API](https://dog.ceo/dog-api/doc
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 DogApiTests/
@@ -22,7 +22,7 @@ DogApiTests/
 
 ---
 
-## 📦 Dependências
+## Dependências
 
 | Pacote                   | Versão  | Função                          |
 |--------------------------|---------|---------------------------------|
@@ -35,7 +35,7 @@ DogApiTests/
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 ### Pré-requisitos
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
@@ -68,7 +68,7 @@ dotnet test --logger "console;verbosity=detailed"
 
 ---
 
-## 🧪 Cobertura de Endpoints
+## Cobertura de Endpoints
 
 | Endpoint                                       | Método | Testes |
 |------------------------------------------------|--------|--------|
